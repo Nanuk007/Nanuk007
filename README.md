@@ -42,7 +42,7 @@ $ cat ./role.txt
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/Nanuk007/Nanuk007/output/dist/snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Nanuk007/Nanuk007/output/snake-dark.svg)
 
 </div>
 
