@@ -1,0 +1,28 @@
+[33mcommit 995e5039f83de541ea5bfc8b053eca200de86856[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nanuk007 <karaffa.filip@gmail.com>
+Date:   Tue Sep 15 01:20:43 2026 +0200
+
+    metrix
+
+ README.md                |  41 [32m+++[m[31m---[m
+ assets/matrix-banner.svg | 320 [32m+++++++++++++++++++++++++++++++++++++++++++++++[m
+ gen_matrix.py            |  69 [32m++++++++++[m
+ 3 files changed, 415 insertions(+), 15 deletions(-)
+
+[33mcommit 5dd576f7bf5ab7d51d05c5cb8c74682b04eefcf6[m
+Author: Nanuk007 <karaffa.filip@gmail.com>
+Date:   Tue Sep 15 01:14:22 2026 +0200
+
+    Add snake
+
+ workflows/snake.yml | 26 [32m++++++++++++++++++++++++++[m
+ 1 file changed, 26 insertions(+)
+
+[33mcommit b95ce23df387a95bad0c4e565493a0152aad2a74[m
+Author: Nanuk007 <karaffa.filip@gmail.com>
+Date:   Tue Sep 15 01:10:52 2026 +0200
+
+    Add cyberpunk profile README and snake workflow
+
+ README.md | 44 [32m++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 44 insertions(+)
